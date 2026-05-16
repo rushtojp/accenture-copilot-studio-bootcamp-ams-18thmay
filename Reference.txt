@@ -1,3 +1,6 @@
+Create a copilot for a real estate solution using natural language in Copilot Studio
+https://learn.microsoft.com/en-us/training/modules/create-copilot-real-estate-natural-language/
+
 Create Agents in Microsoft Copilot Studio
 https://learn.microsoft.com/en-us/users/me/achievements?redeem=723ZG8
 
