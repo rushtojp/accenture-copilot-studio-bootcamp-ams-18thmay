@@ -4,6 +4,9 @@ https://learn.microsoft.com/en-us/training/modules/create-copilot-real-estate-na
 Create Agents in Microsoft Copilot Studio
 https://learn.microsoft.com/en-us/users/me/achievements?redeem=723ZG8
 
+Create and Publish agents in Microsoft copilot studio
+https://learn.microsoft.com/en-us/users/me/achievements?source=learn&redeem=DLJRJD
+
 Extend and Manage Microsoft copilot studio
 https://learn.microsoft.com/en-us/users/me/achievements?redeem=5YL8GX
 
