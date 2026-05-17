@@ -9,3 +9,6 @@ https://learn.microsoft.com/en-us/users/me/achievements?redeem=5YL8GX
 
 Agents architure center
 https://learn.microsoft.com/en-us/power-platform/architecture/?wt.mc_id=ppcsac_share_content_ppmktg
+
+Agents - Solution Ideas
+https://learn.microsoft.com/en-us/power-platform/architecture/solution-ideas/
