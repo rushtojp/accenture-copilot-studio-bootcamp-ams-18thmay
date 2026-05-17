@@ -6,3 +6,6 @@ https://learn.microsoft.com/en-us/users/me/achievements?redeem=723ZG8
 
 Extend and Manage Microsoft copilot studio
 https://learn.microsoft.com/en-us/users/me/achievements?redeem=5YL8GX
+
+Agents architure center
+https://learn.microsoft.com/en-us/power-platform/architecture/?wt.mc_id=ppcsac_share_content_ppmktg
