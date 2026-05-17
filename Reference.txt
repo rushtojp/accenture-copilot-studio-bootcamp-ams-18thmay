@@ -12,3 +12,6 @@ https://learn.microsoft.com/en-us/power-platform/architecture/?wt.mc_id=ppcsac_s
 
 Agents - Solution Ideas
 https://learn.microsoft.com/en-us/power-platform/architecture/solution-ideas/
+
+Copilot Agent Academy
+https://microsoft.github.io/agent-academy/
