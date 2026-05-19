@@ -36,3 +36,6 @@ https://techcommunity.microsoft.com/blog/microsoft-security-blog/microsoft-copil
 
 Copilot Security Architecture: What Actually Protects Your Data
 https://www.m365.fm/blog/copilot-security-architecture-what-actually-protects-your-data/
+
+Securing AI agents - Ai governance best practices
+https://www.m365.fm/securing-ai-agents-safe-governance-best-practices/
