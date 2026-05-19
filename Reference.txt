@@ -18,3 +18,15 @@ https://learn.microsoft.com/en-us/power-platform/architecture/solution-ideas/
 
 Copilot Agent Academy
 https://microsoft.github.io/agent-academy/
+
+Navigating Microsoft's Copilot Studio and Azure AI Foundry
+https://techcommunity.microsoft.com/blog/microsoftmissioncriticalblog/navigating-microsofts-copilot-studio-and-azure-ai-foundry/4472233
+
+Copilot studio estimator
+https://microsoft.github.io/copilot-studio-estimator/
+
+copilot studio pre-purchase plan
+https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/scale-your-agent-rollout-with-confidence-introducing-copilot-credit-pre-purchase-plan/
+
+Microsoft Copilot Studio vs. Microsoft Foundry: Building AI Agents and Apps
+https://techcommunity.microsoft.com/blog/microsoft-security-blog/microsoft-copilot-studio-vs-microsoft-foundry-building-ai-agents-and-apps/4483160
