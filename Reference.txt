@@ -30,3 +30,6 @@ https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/scale-your
 
 Microsoft Copilot Studio vs. Microsoft Foundry: Building AI Agents and Apps
 https://techcommunity.microsoft.com/blog/microsoft-security-blog/microsoft-copilot-studio-vs-microsoft-foundry-building-ai-agents-and-apps/4483160
+
+Copilot Security Architecture: What Actually Protects Your Data
+https://www.m365.fm/blog/copilot-security-architecture-what-actually-protects-your-data/
