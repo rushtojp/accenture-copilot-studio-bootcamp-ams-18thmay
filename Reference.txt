@@ -1,3 +1,7 @@
+Design Multiagent solution in microsoft copilot studio
+https://learn.microsoft.com/en-us/users/me/achievements?redeem=YK855L
+https://learn.microsoft.com/en-us/training/paths/design-build-multi-agent-solutions-copilot-studio/
+
 Create a copilot for a real estate solution using natural language in Copilot Studio
 https://learn.microsoft.com/en-us/training/modules/create-copilot-real-estate-natural-language/
 
