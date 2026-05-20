@@ -43,3 +43,6 @@ https://www.m365.fm/blog/copilot-security-architecture-what-actually-protects-yo
 
 Securing AI agents - Ai governance best practices
 https://www.m365.fm/securing-ai-agents-safe-governance-best-practices/
+
+copilot studio guidance documentation
+https://learn.microsoft.com/en-us/microsoft-copilot-studio/guidance/
