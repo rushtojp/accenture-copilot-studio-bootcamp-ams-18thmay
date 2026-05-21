@@ -46,3 +46,9 @@ https://www.m365.fm/securing-ai-agents-safe-governance-best-practices/
 
 copilot studio guidance documentation
 https://learn.microsoft.com/en-us/microsoft-copilot-studio/guidance/
+
+Microsoft agent pre-purchase plan
+https://learn.microsoft.com/en-us/azure/cost-management-billing/reservations/agent-pre-purchase
+
+comparing microsoft copilot and microsoft foundry 
+https://techcommunity.microsoft.com/blog/microsoft-security-blog/microsoft-copilot-studio-vs-microsoft-foundry-building-ai-agents-and-apps/4483160
