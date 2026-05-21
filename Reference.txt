@@ -55,3 +55,6 @@ https://techcommunity.microsoft.com/blog/microsoft-security-blog/microsoft-copil
 
 ROI calculator framework for agentic ai
 https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/a-framework-for-calculating-roi-for-agentic-ai-apps/4369169#community-4369169-mcetoc_1ii7b8ma5_7
+
+Realworld case studies - capstone reference
+https://learn.microsoft.com/en-us/power-platform/guidance/case-studies/
