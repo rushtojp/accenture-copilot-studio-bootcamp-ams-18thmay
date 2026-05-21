@@ -52,3 +52,6 @@ https://learn.microsoft.com/en-us/azure/cost-management-billing/reservations/age
 
 comparing microsoft copilot and microsoft foundry 
 https://techcommunity.microsoft.com/blog/microsoft-security-blog/microsoft-copilot-studio-vs-microsoft-foundry-building-ai-agents-and-apps/4483160
+
+ROI calculator framework for agentic ai
+https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/a-framework-for-calculating-roi-for-agentic-ai-apps/4369169#community-4369169-mcetoc_1ii7b8ma5_7
