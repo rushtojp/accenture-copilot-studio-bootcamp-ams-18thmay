@@ -58,3 +58,6 @@ https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/a-framework-for-c
 
 Realworld case studies - capstone reference
 https://learn.microsoft.com/en-us/power-platform/guidance/case-studies/
+
+MCP and A2A protocols
+https://learn.microsoft.com/en-us/agents/architecture/multi-agent-patterns
